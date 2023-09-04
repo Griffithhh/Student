@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3b68f31-b34d-4ecd-9813-5206c87db318" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServisStudenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/uslugiservisowe/ServisStudenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Student.java" afterDir="false" />
-    </list>
+    <list default="true" id="f3b68f31-b34d-4ecd-9813-5206c87db318" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693825249087</updated>
-      <workItem from="1693825251440" duration="1797000" />
+      <workItem from="1693825251440" duration="2102000" />
     </task>
     <servers />
   </component>
